@@ -1,16 +1,44 @@
-# Dragon_fight_RPG :octocat:
-## JavaScript *RPG* Game Example by freeCodeCamp 
-An RPG game that I build along with freeCodeCamp, for a *JavaScript* Example. Learning to build JavaScript games is good JavaScript practice. One thing that I like about this program is when you click on the buttons, the text on the buttons changes when you click on them. Learning how to do this is very useful. For the fact that you can take the same concept and implement it to something else. For example, when you want buttons that change the text when clicked on, For more control buttons.
+# Dragon Fight RPG
 
-![screenShot dragonFightRPG](https://github.com/matwal42083/Dragon_fight_RPG/assets/115494989/b72d1ab3-4a58-4a82-b88a-1e185aacb9b0)
-### Practice project URL: [CodePen://codepen.io/Matthew-matwal-Walton](//codepen.io/Matthew-matwal-Walton):alien:
-A lot of my stuff is on my CodePen account, So people can see my work showcase and see it running live without launching them and get a good idea of what I'm about as a web and mobile developer.
+A small, browser-based role-playing game built with HTML, CSS, and vanilla JavaScript while learning through a freeCodeCamp JavaScript game project. Explore the town, improve your equipment, battle monsters, and take on the dragon.
 
-## Project purpose: 
-* :heavy_check_mark: Code example from the code for other projects with similar features.
-* :heavy_check_mark: To showcase different features that I can code.
-* :heavy_check_mark: reusable code for something else.
-* :heavy_check_mark: Give other developers ideas for their projects.
+![Screenshot of Dragon Fight RPG](https://github.com/matwal42083/Dragon_fight_RPG/assets/115494989/b72d1ab3-4a58-4a82-b88a-1e185aacb9b0)
 
-> [!NOTE]
->  Go to CodePen @ [CodePen://codepen.io/Matthew-matwal-Walton](//codepen.io/Matthew-matwal-Walton) to check out this game for yourself !
+## Play
+
+No installation or build tools are required:
+
+1. Clone or download this repository.
+2. Open `Dragon Fight RPG/index.html` in a web browser.
+3. Use the on-screen buttons to explore and play.
+
+## How to play
+
+- Start in the town square, then visit the store or enter the cave.
+- Buy health and stronger weapons with gold earned from defeating monsters.
+- Fight slimes and fanged beasts to gain experience and gold.
+- Attack the dragon to win. Watch your health, and remember that weapons can break.
+- Try the secret number game for a chance to win gold.
+
+## Built with
+
+- HTML
+- CSS
+- JavaScript
+
+## Project files
+
+```text
+Dragon Fight RPG/
+├── index.html   # Game page and interface
+├── script.js    # Game state, locations, and combat
+└── styles.css   # Game styling
+```
+
+## Learning goals
+
+This project is a hands-on example of updating a page with JavaScript: the buttons, messages, player stats, and monster stats change as the game state changes. It is intended as a learning project and a starting point for experimenting with small browser games.
+
+## More projects
+
+Browse my other work on [CodePen](https://codepen.io/Matthew-matwal-Walton).
