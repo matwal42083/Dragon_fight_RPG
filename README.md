@@ -1,6 +1,6 @@
 # Dragon Fight RPG
 
-A small, browser-based role-playing game built with HTML, CSS, and vanilla JavaScript while learning through a freeCodeCamp JavaScript game project. Explore the town, improve your equipment, battle monsters, and take on the dragon.
+A browser-based role-playing game completed as a freeCodeCamp JavaScript coding assignment, using HTML, CSS, and vanilla JavaScript. Explore the town, improve your equipment, battle monsters, and take on the dragon.
 
 ![Screenshot of Dragon Fight RPG](https://github.com/matwal42083/Dragon_fight_RPG/assets/115494989/b72d1ab3-4a58-4a82-b88a-1e185aacb9b0)
 
@@ -37,7 +37,7 @@ Dragon Fight RPG/
 
 ## Learning goals
 
-This project is a hands-on example of updating a page with JavaScript: the buttons, messages, player stats, and monster stats change as the game state changes. It is intended as a learning project and a starting point for experimenting with small browser games.
+Completing the freeCodeCamp assignment provided hands-on practice updating a page with JavaScript: the buttons, messages, player stats, and monster stats change as the game state changes. This learning project is a starting point for experimenting with small browser games.
 
 ## More projects
 
