@@ -2,6 +2,14 @@
 
 A browser-based role-playing game completed as a freeCodeCamp JavaScript coding assignment, using HTML, CSS, and vanilla JavaScript. Explore the town, improve your equipment, battle monsters, and take on the dragon.
 
+## Project origin
+
+<a href="https://www.freecodecamp.org/learn/">
+  <img src="https://raw.githubusercontent.com/matwal42083/myPortfolio/main/src/assets/images/freeCodeCampLogo.jpg" alt="freeCodeCamp logo" width="150">
+</a>
+
+This game was completed as part of a freeCodeCamp JavaScript coding assignment.
+
 ![Screenshot of Dragon Fight RPG](https://github.com/matwal42083/Dragon_fight_RPG/assets/115494989/b72d1ab3-4a58-4a82-b88a-1e185aacb9b0)
 
 ## Play
